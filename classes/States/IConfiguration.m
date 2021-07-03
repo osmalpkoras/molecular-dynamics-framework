@@ -1,0 +1,3 @@
+classdef IConfiguration < DeepCopyable
+end
+
